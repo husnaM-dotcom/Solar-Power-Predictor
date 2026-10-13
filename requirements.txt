@@ -39,3 +39,4 @@ urllib3==2.8.0
 uvicorn==0.54.0
 websockets==17.2
 xgboost==3.4.1
+gunicorn
